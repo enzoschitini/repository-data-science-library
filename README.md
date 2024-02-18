@@ -17,22 +17,26 @@ Within this collection you will find materials that concern the methods and oper
   width="686" height="289">
 </p>
 
-1. First, install `size-limit`:
+### JS Applications
 
-    ```sh
-    npm install --save-dev size-limit @size-limit/preset-small-lib
-    ```
+Suitable for applications that have their own bundler and send the JS bundle
+directly to a client (without publishing it to npm). Think of a user-facing app
+or website, like an email client, a CRM, a landing page or a blog with
+interactive elements, using React/Vue/Svelte lib or vanilla JS.
 
-2. Add the `size-limit` section and the `size` script to your `package.json`:
+<details><summary><b>Show instructions</b></summary>
+
+1. Add the `size-limit` section and the `size` script to your `package.json`:
 
     ```diff
     + "size-limit": [
     +   {
-    +     "path": "index.js"
+    +     "path": "dist/app-*.js"
     +   }
     + ],
       "scripts": {
-    +   "size": "size-limit",
+        "build": "webpack ./webpack.config.js",
+    +   "size": "npm run build && size-limit",
         "test": "vitest && eslint ."
       }
     ```
