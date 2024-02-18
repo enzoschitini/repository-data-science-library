@@ -28,7 +28,7 @@ interactive elements, using React/Vue/Svelte lib or vanilla JS.
 
 1. Add the `size-limit` section and the `size` script to your `package.json`:
 
-## fff
+</details>
 
 ##
 
