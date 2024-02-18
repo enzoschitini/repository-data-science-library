@@ -28,19 +28,6 @@ interactive elements, using React/Vue/Svelte lib or vanilla JS.
 
 1. Add the `size-limit` section and the `size` script to your `package.json`:
 
-    ```diff
-    + "size-limit": [
-    +   {
-    +     "path": "dist/app-*.js"
-    +   }
-    + ],
-      "scripts": {
-        "build": "webpack ./webpack.config.js",
-    +   "size": "npm run build && size-limit",
-        "test": "vitest && eslint ."
-      }
-    ```
-
 ##
 
 <p align="center">
