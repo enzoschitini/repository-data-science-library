@@ -10,3 +10,13 @@ Within this collection you will find materials that concern the methods and oper
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
 ---
+
+##
+
+<p align="center">
+  Enzo Schitini
+</p>
+
+<p align="center">
+  Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
+</p>
