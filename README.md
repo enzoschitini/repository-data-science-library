@@ -11,6 +11,12 @@ Within this collection you will find materials that concern the methods and oper
 
 ---
 
+# Task List
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
 ##
 
 <p align="center">
