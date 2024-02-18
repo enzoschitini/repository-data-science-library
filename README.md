@@ -28,7 +28,7 @@ interactive elements, using React/Vue/Svelte lib or vanilla JS.
 
 1. Add the `size-limit` section and the `size` script to your `package.json`:
 
-:ballot_box_with_check:Male :black_square_button:Female :black_square_button: Not to disclose
+## fff
 
 ##
 
