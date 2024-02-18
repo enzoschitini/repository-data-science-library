@@ -17,6 +17,26 @@ Within this collection you will find materials that concern the methods and oper
   width="686" height="289">
 </p>
 
+1. First, install `size-limit`:
+
+    ```sh
+    npm install --save-dev size-limit @size-limit/preset-small-lib
+    ```
+
+2. Add the `size-limit` section and the `size` script to your `package.json`:
+
+    ```diff
+    + "size-limit": [
+    +   {
+    +     "path": "index.js"
+    +   }
+    + ],
+      "scripts": {
+    +   "size": "size-limit",
+        "test": "vitest && eslint ."
+      }
+    ```
+
 ##
 
 <p align="center">
