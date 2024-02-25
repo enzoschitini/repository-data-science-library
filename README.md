@@ -1,7 +1,7 @@
 # Repository • Data Science
 Within this collection you will find materials that concern the methods and operations that are often done in Data Science projects
 
-<img src="https://raw.githubusercontent.com/enzoschitini/Adige/main/image/Group.png" alt="capa">
+<img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Repository.png?raw=true" alt="capa">
 
 ---
 
