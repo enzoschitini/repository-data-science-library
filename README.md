@@ -35,7 +35,7 @@ interactive elements, using React/Vue/Svelte lib or vanilla JS.
     <ul class="task-list">
         <li class="task-item">
             <input type="checkbox" id="task1">
-            <label for="task1"></label>
+            <label for="task1">gdg</label>
         </li>
     </ul>
 </body>
