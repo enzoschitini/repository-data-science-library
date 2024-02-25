@@ -30,6 +30,16 @@ interactive elements, using React/Vue/Svelte lib or vanilla JS.
 
 </details>
 
+<body>
+    <h1>Lista di Compiti</h1>
+    <ul class="task-list">
+        <li class="task-item">
+            <input type="checkbox" id="task1">
+            <label for="task1"></label>
+        </li>
+    </ul>
+</body>
+
 ##
 
 <p align="center">
