@@ -30,56 +30,6 @@ interactive elements, using React/Vue/Svelte lib or vanilla JS.
 
 </details>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Lista de Tarefas</title>
-<style>
-    .task-list {
-        list-style-type: none;
-        padding: 0;
-    }
-
-    .task-item {
-        margin-bottom: 10px;
-    }
-
-    .task-item input[type="checkbox"] {
-        margin-right: 10px;
-    }
-
-    .task-item label {
-        cursor: pointer;
-    }
-
-    .task-item.completed label {
-        text-decoration: line-through;
-        color: #888;
-    }
-</style>
-</head>
-<body>
-    <h1>Lista de Tarefas</h1>
-    <ul class="task-list">
-        <li class="task-item">
-            <input type="checkbox" id="task1">
-            <label for="task1">Tarefa 1</label>
-        </li>
-        <li class="task-item">
-            <input type="checkbox" id="task2">
-            <label for="task2">Tarefa 2</label>
-        </li>
-        <li class="task-item">
-            <input type="checkbox" id="task3">
-            <label for="task3">Tarefa 3</label>
-        </li>
-    </ul>
-</body>
-</html>
-
-
 ##
 
 <p align="center">
