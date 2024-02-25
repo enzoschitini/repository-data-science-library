@@ -5,7 +5,8 @@ Within this collection you will find materials that concern the methods and oper
 
 ---
 
-# **Bem-Vindo(a)!** • Veja o que eu fiz de melhor com cientista de dados
+# **Library** • Veja o que eu fiz de melhor com cientista de dados
+This repository contains a wide range of scripts, templates, datasets and documentation useful for those working in the field of data science.
 **+ 18** Projetos 
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
