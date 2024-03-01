@@ -11,20 +11,17 @@ Within this collection you will find materials that concern the methods and oper
 
 ---
 
+<details><summary><b>Lista di compiti</b></summary>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/andresz1/size-limit-action/master/assets/pr.png"
   alt="Size Limit comment in pull request about bundle size changes"
   width="686" height="289">
 </p>
 
-### JS Applications
+### Decision Trees
 
-Suitable for applications that have their own bundler and send the JS bundle
-directly to a client (without publishing it to npm). Think of a user-facing app
-or website, like an email client, a CRM, a landing page or a blog with
-interactive elements, using React/Vue/Svelte lib or vanilla JS.
-
-<details><summary><b>Show instructions</b></summary>
+Impariamo quali sono le fesi dello sviluppo, come farlo e i termini tecnici
 
 1. Add the `size-limit` section and the `size` script to your `package.json`:
 
