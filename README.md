@@ -13,11 +13,7 @@ Within this collection you will find materials that concern the methods and oper
 
 <details><summary><b>Lista di compiti</b></summary>
 
-<p align="center">
-<img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Decision%20Trees.png?raw=true"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="686" height="289">
-</p>
+<img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Decision%20Trees.png?raw=true" alt="capa">
 
 ### Decision Trees
 
