@@ -1,5 +1,6 @@
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
+import pandas as pd
 
 def Variabile_Migliore(dataframe: pd.DataFrame, variabile_impostata: str):
     try:
@@ -33,4 +34,4 @@ def Variabile_Migliore(dataframe: pd.DataFrame, variabile_impostata: str):
     except Exception as e:
         print(f"An error occurred: {e}")
     
-Variabile_Migliore(ML_model, 'default')
+#Variabile_Migliore(ML_model, 'default')
