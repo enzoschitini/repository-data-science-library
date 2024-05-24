@@ -218,6 +218,8 @@
 07, 0702, C129, Miriam
 07, 1502, B238, Miriam
 07, 1902, C111, Alice
+
+
 10, 2202, B112, Rita, 1
 07, 2302, B202, Clara, 2
 10, 2702, B225, Francesca 3, 1
@@ -264,5 +266,14 @@
 07, 2504, C109, Elisa, 2
 10, 2604, C137, Marina, 2
 12, 2604, B203, Chiara, 3
+07, 0205, B219, Chiara, 2
+07, 1605, C108, Graziana
+10, 1805, C124, Martina 2, 1
+07, 2005, B231, Miriam, 2
+09, 2005, C131, Daniela
+07, 2105, C130, Rita
+15, 2205, B242, Marina
+07, 2405, C119, Martina
+11, 2405, B140, Giuliana
 ---
 
