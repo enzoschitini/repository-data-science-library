@@ -1,0 +1,474 @@
+ora, data, lezione, professoressa, studenti
+08, 2205, B132, Virginia
+11, 2205, B135, Graziana
+10, 2305, C123, Francesca
+11, 2305, B143, Sara
+10, 2405, B141, Alice
+13, 2405, C103, Anna
+12, 2505, B142, Maria
+07, 2605, B120, Clara
+08, 2605, C128, Martina
+11, 2705, C130, Jlenia
+
+10, 2905, B101, Sara
+11, 2905, B124, Luca
+07, 3005, B124, Clara
+10, 3005, B226, Mirela
+07, 3105, B125, Clara
+10, 3105, C126, Francesca
+09, 0106, B210, Ilaria
+10, 0106, B131, Sara
+11, 0106, C123, Irene
+07, 0206, B106, Graziana
+08, 0206, B131, Asia
+11, 0206, B219, Graziana
+
+07, 0506, C135, Clara
+10, 0506, C129, Sabina
+07, 0606, B132, Asia
+10, 0606, B126, Francesca
+10, 0706, B139, Sabina
+11, 0706, B134, Sofia
+08, 0806, B132, Francesca 2
+09, 1106, B243, Miriam
+07, 1206, B127, Elisa
+10, 1206, B227, Sabina
+11, 1206, B118, Graziana
+10, 1306, C123, Graziana
+07, 1406, B135, Clara
+11, 1406, B141, Sabina
+08, 1506, B241, Daniela
+
+08, 1606, B128, Elisa
+07, 1906, B238, Chiara
+09, 1906, C122, Ilaria
+10, 1906, C130, Sabina
+09, 2006, C126, Elisa
+10, 2006, B232, Graziana
+11, 2006, B1, Ilaria
+08, 2706, C119, Rita
+09, 2706, B235, Silvia
+07, 3006, B124, Elena
+13, 3006, C119, Chiara
+07, 0307, B233, Lorella
+08, 0307, B137, Er
+10, 0307, B116, Lorella
+13, 0307, B241, Lea
+
+09, 0507, B141, Francesca 2
+11, 0507, C128, Ilaria
+07, 0607, B105, Frederica
+09, 1007, B118, Daniella
+08, 1107, B221, Federica
+09, 1107, B139, Elena
+07, 1207, C138, Federica
+07, 1407, B103, Laura
+07, 1707, B131, Anna
+07, 1807, B201, Clara
+08, 1907, C117, Lorella
+09, 1907, B141, Sofia
+07, 2007, B227, Anna
+07, 2407, B124, Lorella
+07, 2507, B112, Federica
+
+08, 2607, B115, Federica
+07, 2707, B230, Federica
+07, 2807, B118, Federica
+11, 3107, B241, Graziana
+12, 3107, B105, Giu
+10, 0108, B204, Mirela
+11, 0108, B111, Chiara
+07, 0308, B202, Lorella
+10, 0308, B125, Grazia
+07, 0408, C129, Federica
+09, 0408, C135, Elena
+07, 0708, B118, Lorella
+10, 0708, B115, Anna
+11, 0708, B209, Giusy
+
+07, 0808, B210, Federica
+10, 0808, C118, Anna
+11, 0808, B210, Francesca
+07, 0908, C119, Anna
+11, 0908, C103, Lorella
+10, 1008, B226, Sabina
+07, 1108, B213, Federica
+09, 1108, B227, Sabina
+07, 1408, B124, Lorella
+07, 1608, C134, Federica
+10, 1708, B213, Anna
+11, 1708, B231, Sabina
+07, 1808, B110, Federica
+07, 2108, B218, Federica
+
+08, 2208, C136, Federica
+07, 2308, C132, Alice
+10, 2408, C111, Francesca
+11, 2408, B136, Sabina
+07, 2508, C107, Lorella
+07, 2908, B220, Federica
+08, 2908, B215, Silvia
+10, 2908, C123, Sara
+09, 3008, B112, Federica
+07, 3108, B222, Federica
+10, 0109, C130, Giulia
+07, 0409, C119, Lorella
+11, 0409, C138, Chiara
+11, 0509, C107, Francesca 2
+
+07, 0809, B240, Miriam
+07, 1209, B116, Asia
+10, 1209, C118, Francesca 2
+07, 1309, C117, Isabella
+10, 1309, B212, Mariacristina
+11, 1309, C128, Chiara
+10, 1409, B144, Mariacristina
+11, 1409, C134, Francesca 2
+07, 1509, B122, Clara
+08, 1809, B202, Cecilia
+11, 1809, B230, Graziana
+10, 1909, B141, Mariacristina
+11, 1909, B222, Graziana
+07, 2009, B121, Clara
+10, 2109, B230, Mariacristina
+
+09, 2209, B223, Sofia
+07, 2509, C137, Rita
+07, 2609, B221, Rita
+11, 2809, C123, Francesca 2
+11, 2909, C103, Chiara
+07, 0210, B235, Rita
+08, 0210, B226, Anna
+07, 0310, B244, Miriam
+09, 0310, B214, Francesca 2
+07, 0410, C101, Lorella
+11, 0410, C118, Francesca
+11, 0510, B242, Daniela
+07, 0610, C103, Lorella
+09, 0610, C123, Daniela
+07, 0910, B116, Asia
+
+11, 0910, C113, Antonella
+07, 1010, C136, Rita
+09, 1010, C101, Francesca 2
+07, 1110, B103, Lea
+07, 1210, B228, Federica
+11, 1310, C137, Anna
+07, 1610, C119, Chiara
+08, 1610, C107, Anna
+08, 1710, C134, Asia
+08, 1810, C129, Anna
+12, 1810, B219, Federica
+07, 2310, C129, Federica
+07, 2410, B205, Federica
+07, 2510, B244, Lorella
+07, 2610, C111, Miriam
+
+10, 2710, B212, Francesca 2
+07, 3010, B228, Marina
+11, 3010, B221, Rita
+09, 3110, C137, Miriam
+10, 3110, B220, Virginia
+07, 0211, B114, Miriam
+07, 0611, B218, Rita
+08, 0611, C135, Federica
+10, 0711, C112, Francesca 2
+07, 0811, B240, Rita
+10, 0911, C130, Francesca 2
+10, 1011, B238, Francesca 2
+11, 1311, C137, Daniela
+08, 1511, B204, Federica
+09, 1711, C132, Sofia
+08, 2111, C117, Federica
+08, 2211, B212, Miriam
+07, 2311, B143, Miriam
+10, 2311, B214, Francesca 2
+07, 2411, B215, Fenderica
+09, 2711, B212, Asia
+07, 2911, C107, Clara
+07, 3011, C123, Chiara
+07, 0112, C107, Miriam
+
+09, 0112, B214, Anna
+07, 0512, C102, Lorella
+07, 0612, C128, Federica
+11, 0612, C102, Graziana
+07, 0712, C134, Marina
+08, 0812, C123, Federica
+07, 1212, C132, Lorella
+07, 1312, B210, Federica
+10, 1412, B235, Francesca 2
+07, 1512, C101, Chiara
+07, 2712, C124, Chiara
+----------------------------
+07, 0201, C108, Laura
+10, 0401, B231, Beatrice
+07, 0501, C132, Clara
+07, 0901, B118, Rita
+10, 1001, C119, Asia
+09, 1101, C124, Federica
+10, 1501, B202, Silvia
+13, 1601, B136, Mariacristina
+17, 1701, C107, Anna
+13, 1701, C122, Mariacristina
+09, 1801, C123, Graziana
+07, 2301, C118, Anna
+10, 2401, C108, Graziana
+07, 2501, B230, Miriam
+07, 0102, C106, Chiara
+07, 0702, C129, Miriam
+07, 1502, B238, Miriam
+07, 1902, C111, Alice
+
+
+10, 2202, B112, Rita, 1
+07, 2302, B202, Clara, 2
+10, 2702, B225, Francesca 3, 1
+11, 2902, B201, Cristina, 2
+11, 0103, C137, Giuliana, 2
+11, 0503, C102, Virginia, 2
+10, 0603, C101, Asia, 1
+07, 0703, B202, Francesca 3, 2
+07, 0803, B227, Anna, 1
+07, 1103, B201, Miriam, 2
+07, 1203, B112, Raffaella, 1
+11, 1403, C125, Sofia, 2
+07, 1503, C116, Miriam, 2
+11, 1503, C107, Giuliana, 2
+07, 1803, B242, Giusy, 1
+11, 1809, C102, Chiara, 2
+10, 1903, B207, Francesca 3, 2
+07, 2003, C126, Elisa, 1
+12, 2003, C126, Serena, 1
+09, 2103, B202, Beatrice, 1
+07, 2203, C117, Miriam, 2
+07, 2503, C132, Miriam, 2
+08, 2503, B243, Giusy, 1
+12, 2503, C104, Chiara, 1
+07, 2703, C134, Giusy, 1
+09, 2703, C107, Graziana, 2
+10, 2803, B208, Asia, 1
+11, 0304, C108, Miriam, 1
+07, 0404, C102, Chiara, 1
+18, 0404, B233, Francesca, 3
+11, 0504, B222, Giuliana, 3
+07, 0904, B144, Francesca 2, 2
+11, 0904, C106, Sofia, 2
+09, 1004, B127, Sofia, 1
+07, 1204, C114, Antonella, 1
+12, 1504, C132, Mariacristina, 4
+11, 1604, C106, Giuliana, 2
+11, 1704, C114, Mirela, 1
+11, 1804, B212, Giusy, 2
+07, 1904, B235, Anna, 3
+10, 2204, C137, Chiara, 1
+11, 2304, B237, Giuliana, 2
+07, 2404, C121, Rita, 1
+07, 2504, C109, Elisa, 2
+10, 2604, C137, Marina, 2
+12, 2604, B203, Chiara, 3
+07, 0205, B219, Chiara, 2
+07, 1605, C108, Graziana, 1
+10, 1805, C124, Martina 2, 1
+07, 2005, B231, Miriam, 2
+09, 2005, C131, Daniela, 1
+07, 2105, C130, Rita, 1
+15, 2205, B242, Marina, 1
+07, 2405, C119, Martina, 1
+11, 2405, B140, Giuliana, 1
+07, 2705, B120, Miriam, 1
+12, 2705, C112, Chiara, 1
+09, 2805, C119, Francesca 4, 1
+12, 2905, C121, Giusy, 1
+10, 3005, C136, Francesca 2, 1
+15, 3005, C131, Marina, 1
+10, 0306, B132, Giusy, 1
+07, 0406, C113, Graziana, 1
+07, 0506, C117, Rita, 1
+14, 0506, C132, Antonella, 1
+07, 0606, B226, Anna, 1
+07, 0706, B105, Anna 2, 1
+11, 0706, C114, Giuliana, 1
+10, 1006, B237, Federico, 1
+07, 1206, C112, Miriam, 2
+10, 1206, C130, Giusy, 1
+07, 1306, B236, Martina, 1
+11, 1306, C119, Giulia, 1
+09, 1406, C109, Francesca 3, 2
+12, 1406, C126, Mariacristina, 2
+07, 1706, C107, Federica 2, 1
+11, 1706, C101, Mirela, 1
+07, 1806, C128, Erika, 1
+11, 1806, B204, Giada 2, 1
+10, 1906, B117, Giada 2, 2
+12, 1906, C116, Giusy, 1
+09, 2006, C122, Rita, 2
+07, 2406, C135, Miriam, 1
+11, 2506, B131, Ileana, 1
+09, 2606, B216, Rita, 1
+13, 2606, C128, Mariacristina, 1
+10, 2706, B227, Lorella, 1
+09, 0207, B201, Giada, 2
+07, 0307, C109, Gaia, 1
+10, 0307, B219, Lorella, 1
+10, 0407, B243, Elena, 1
+10, 0507, C103, Giusy, 1
+07, 0807, C109, Elena, 2
+09, 0907, B236, Elena, 2
+10, 0907, C117, Elena, 1
+07, 1007, C130, Sofia, 1
+09, 1107, B121, Elena, 1
+09, 1207, B218, Francesca 3, 1
+11, 1507, C132, Miriam, 1
+09, 1707, C117, Silvia 2, 1
+09, 1807, C114, Elena, 1
+07, 1907, C138, Elisa, 1
+10, 2207, B114, Giuliana, 2
+07, 2307, C108, Federica 2, 1
+09, 2407, C111, Rita, 2
+15, 2407, B219, Marina, 1
+08, 2507, B215, Francesca 2, 1
+08, 2607, C135, Sofia, 1
+09, 2907, B219, Jessica, 2
+10, 3007, B116, Elena, 2
+09, 3107, B233, Elena, 2
+09, 0108, B139, Elena, 2
+09, 0208, C129, Elena, 2
+10, 0508, C128, Giulia, 1
+11, 0508, B216, Elena, 1
+09, 0608, C138, Elena, 1
+07, 0808, B233, Elena, 1
+10, 1208, C125, Miriam, 2
+10, 1408, B116, Giulia 2, 2
+11, 1508, C130, Cecilia, 1
+09, 1908, C122, Francesca, 3
+11, 2008, C132, Cecilia, 1
+07, 2108, B221, Marta, 2
+09, 2308, B213, Gaia, 3
+08, 2608, C116, Alessandra, 2
+10, 2608, C124, Miriam, 1
+10, 2708, B237, Miriam, 2
+10, 2808, B201, Maddalena, 3
+11, 2908, B244, Chiara, 3
+09, 3008, B210, Martina, 3
+07, 0209, B244, Marta, 1
+10, 0209, B238, Debora, 1
+09, 0309, B103, Giada, 3
+10, 0409, B231, Anna, 2
+09, 0509, C129, Giada, 2
+07, 0609, C122, Chiara 2, 2
+09, 1009, B136, Giulia, 2
+07, 1109, C118, Simona, 1
+09, 1109, C119, Maddalena, 2
+10, 1209, B243, Miriam, 1
+
+07, 1609, C137, Rita, 2
+09, 1609, C131, Lorella, 1
+09, 1709, C114, Rita, 2
+07, 1809, C137, Giusy, 1
+07, 1909, B235, Arianna, 1
+07, 2309, C116, Graziana, 2
+12, 2309, B127, Marina, 1
+11, 2409, C134, Giuliana, 1
+09, 2509, B240, Giulia 2, 2
+11, 2509, B227, Valentina, 2
+10, 2609, B235, Martina, 2
+07, 3009, B235, Rita, 1
+12, 0110, B215, Giusy, 1
+10, 0210, B117, Marta, 2
+09, 0310, C103, Lorella, 1
+07, 0410, C109, Luca, 1
+07, 0710, B233, Marta, 2
+09, 0810, B129, Martina, 1
+07, 0910, C106, Anna, 1
+10, 1010, B120, Maddalena, 2
+10, 1110, C119, Giuliana, 2
+09, 1410, B215, Nicola, 1
+11, 1510, C112, Giacomo, 2
+07, 1610, B237, Antonella, 1
+10, 1710, C137, Marta, 2
+09, 1810, C124, Daniela, 1
+07, 2110, B204, Anna, 1
+07, 2210, C131, Graziana, 1
+07, 2310, B108, Anna, 2
+09, 2410, B212, Lorella, 2
+12, 2510, C125, Anna, 1
+07, 2810, B118, Anna, 3
+07, 2910, B216, Chiara, 1
+11, 2910, B119, Giulia 2, 1
+07, 3010, B222, Marta, 1
+10, 3110, C132, Daniela, 2
+19, 0411, C113, Francesca, 4
+10, 0511, C118, Anna 2, 2
+11, 0611, C114, Debora, 2
+09, 0711, B226, Chiara 3, 1
+10, 0811, C116, Miriam, 1
+12, 0811, B232, Anna, 2
+10, 1111, C130, Virginia, 3
+09, 1211, C126, Stefania, 1
+07, 1311, C114, Marta, 1
+12, 1411, C125, Sofia, 2
+07, 1811, C109, Beatrice 2, 1
+11, 1911, B102, Sofia, 1
+09, 2011, C126, Asia, 1
+10, 2211, B145, Laura, 1
+10, 2511, B147, Sofia, 1
+17, 2611, C114, Elena 2, 1
+10, 2811, C125, Rita, 1
+11, 2911, B207, Gianmarco, 1
+12, 0212, C119, Gianmarco, 1
+07, 0312, C101, Katia, 1
+11, 0512, B213, Maria Francesca, 1
+09, 0912, B103, Milica, 2
+07, 1012, B117, Milica, 1
+11, 1312, C131, Maria Francesca, 2
+12, 1312, C118, Giusy, 1
+07, 1612, B129, Marta, 1
+07, 1712, C104, Anna 3, 1
+07, 2012, B125, Chiara, 2
+11, 2712, C124, Valentina, 2
+11, 0601, C112, Clarissa, 4
+09, 0701, C130, Maria Francesca, 3
+12, 0701, C135, Marta, 2
+12, 0801, B241, Marta, 1
+09, 0901, C135, Maria Francesca, 2
+12, 1001, B141, Beatrice 3, 3
+11, 1301, C121, Katia, 2
+10, 1401, B226, Noemi, 2
+09, 1601, B143, Giovanna, 1
+09, 1701, C124, Maria Francesca, 1
+10, 2101, B231, Giulia 2, 2
+12, 2101, C138, Antonella, 2
+10, 2201, C108, Elena 2, 2
+09, 2301, B242, Sofia, 2
+10, 2401, B243, Giovanna, 1
+09, 2701, B139, Maria Francesca, 3
+10, 2801, B215, Elena 2, 2
+08, 2901, B222, Francesca Giorgia, 1
+12, 0302, C106, Marta, 3
+12, 0402, C136, Chiara Giulia, 2
+09, 0502, B227, Beatrice 3, 2
+12, 0602, B236, Valentina, 6
+12, 0702, C107, Giusy, 4
+10, 1002, C117, Virginia, 2
+11, 1102, C117, Serena, 2
+12, 1202, C118, Beatrice 3, 4
+12, 1302, C107, Cristinia, 4
+07, 1402, C131, Anna, 4
+11, 1402, B103, Cristinia, 1
+10, 1802, C136, Laura, 2
+07, 2002, C113, Giulia, 3
+09, 2002, C117, Francesca 3, 1
+10, 2102, C132, Elena 2, 1
+09, 2502, B226, Francesca 3, 1
+07, 2602, B219, Anna, 6
+11, 0503, B227, Chiara Giulia, 1
+11, 0603, B210, Maria Francesca, 1
+10, 0703, B226, Silvia, 2
+11, 1003, B219, Giovanna, 1
+11, 1103, C131, Ramona, 1
+11, 1303, B235, Gianmarco, 2
+11, 1403, C111, Chiara Giulia, 2
+11, 1703, B238, Maria Francesca, 1
+07, 1803, C131, Giulia, 1
+---
